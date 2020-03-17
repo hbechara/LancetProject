@@ -1,0 +1,3590 @@
+Review
+
+Countdown to 2015: a decade of tracking progress for
+maternal, newborn, and child survival
+Cesar G Victora, Jennifer Harris Requejo, Aluisio J D Barros, Peter Berman, Zulfiqar Bhutta, Ties Boerma, Mickey Chopra, Andres de Francisco,
+Bernadette Daelmans, Elizabeth Hazel, Joy Lawn, Blerta Maliqi, Holly Newby, Jennifer Bryce
+
+Conceived in 2003 and born in 2005 with the launch of its first report and country profiles, the Countdown to 2015 for
+Maternal, Newborn, and Child Survival has reached its originally proposed lifespan. Major reductions in the deaths of
+mothers and children have occurred since Countdown's inception, even though most of the 75 priority countries
+failed to achieve Millennium Development Goals 4 and 5. The coverage of life-saving interventions tracked in
+Countdown increased steadily over time, but wide inequalities persist between and within countries. Key drivers of
+coverage such as financing, human resources, commodities, and conducive health policies also showed important,
+yet insufficient increases. As a multistakeholder initiative of more than 40 academic, international, bilateral, and civil
+society institutions, Countdown was successful in monitoring progress and raising the visibility of the health of
+mothers, newborns, and children. Lessons learned from this initiative have direct bearing on monitoring progress
+during the Sustainable Development Goals era.
+
+Lancet 2016; 387: 2049-59
+
+Introduction
+
+Federal University of Pelotas,
+Pelotas, Brazil
+(Prof C G Victora MD,
+Prof A J D Barros MD);
+Partnership for Maternal,
+Newborn & Child Health,
+Geneva, Switzerland
+(J H Requejo PhD,
+A de Francisco MD); Harvard
+School of Public Health,
+Boston, MA, USA
+(Prof P Berman PhD); Robert
+Harding Chair in Global Child
+Health and Policy, Centre for
+Global Child Health, Hospital
+for Sick Children, Toronto, ON,
+Canada (Prof Z Bhutta MD);
+Centre of Excellence in Women
+and Child Health, Aga Khan
+University, Karachi, Pakistan
+(Prof Z Bhutta); World Health
+Organization, Geneva,
+Switzerland (T Boerma MD,
+B Daelmans MD, B Maliqi PhD);
+United Nations Children's
+Fund, New York, NY, USA
+(M Chopra MD, H Newby MS);
+Institute for International
+Programs, Johns Hopkins
+Bloomberg School of Public
+Health, Baltimore, MD, USA
+(E Hazel MHS, J Bryce EdD); and
+
+10 years after the Countdown to 2015 for Maternal,
+Newborn, and Child Survival (Countdown) was
+launched, the world has become a healthier place for
+children and women. The Millennium Development
+Goals (MDGs) sparked those involved in the 2003 Lancet
+Child Survival Series to propose the Countdown
+initiative, who pledged to hold regular conferences for
+"ensuring that there is an overall mechanism for
+improving accountability, re-energising commitment,
+and recognising accomplishments in child survival".1
+In response to this call to action, Countdown launched
+its first report in 2005,2 which was followed by five others
+(2008,3 2010,4 2012,5 2013,6 and 20147). The final report is
+being released this week, on October 19, in Mexico City,
+Mexico. From its original focus on child survival,
+Countdown has expanded to track progress on
+reproductive, maternal, newborn, and child health
+indicators relevant to MDGs 4 (reduce child mortality) and
+5 (improve maternal health). The heart of the Countdown
+reports are the two-page country profiles that summarise
+the most recent data for intervention coverage, maternal
+and child mortality, and nutrition. The country profiles
+also highlight socioeconomic inequalities in intervention
+coverage, and two of the main drivers of coverage: health
+systems and policies, and financing.
+Countdown has evolved in many ways during the past
+decade. The partnership has grown from 11 to
+43 institutional stakeholders, and the number of countries
+monitored from 60 to 75, comprising more than 95% of
+global deaths of mothers and children. As the scope
+shifted beyond child survival, and in response to new
+evidence, the number of indicators tracked expanded
+from 35 to 73. By including new, proven interventions in
+its profiles even before data were available for many
+countries, Countdown has contributed to the identification
+of data gaps and had arguably helped to raise the visibility
+of such new interventions. Countdown recognised the
+importance of engaging at country level, and from 2012
+www.thelancet.com Vol 387 May 14, 2016
+
+embarked on a set of case studies aimed at understanding
+how countries have achieved progress (appendix pp 1-2).
+Countdown is also the primary source of coverage
+information for the Commission on Information and
+Accountability for Women's and Children's Health and
+the Independent Expert Review Group8 reports.
+In the decade since Countdown's inception, the
+number of reports on specific reproductive, maternal,
+newborn, and child (RMNCH) health issues has grown
+rapidly. Countdown's particular niche has been its
+action-oriented focus on intervention coverage, and the
+user-friendly synthesis of information in the country
+profiles. Our principles have not changed over this
+period:1 to focus on monitoring the coverage of evidencebased, cost-effective interventions; to maintain a country
+orientation; and to build on existing goals and monitoring
+efforts. Countdown's commitment to these principles
+and its products have helped to increase the global
+visibility of RMNCH, and has plausibly contributed to
+reversing the slow rate of progress in reducing child,
+newborn, and maternal mortality in the 1990s that was
+documented in early public health series in The Lancet.1,9-11
+As the MDG era draws to a close, the global public
+health and development communities must take stock of
+progress over the past 15 years, and get ready for the
+
+Published Online
+October 16, 2015
+http://dx.doi.org/10.1016/
+S0140-6736(15)00519-X
+This online publication has
+been corrected. The corrected
+version first appeared at
+thelancet.com on May 12, 2016
+See Online/Viewpoint
+http://dx.doi.org/10.1016/
+S0140-6736(15)00527-9
+
+Key messages
+* Countdown to 2015 is a unique example of a multistakeholder initiative of academic,
+international, bilateral, and civil society institutions focused on monitoring progress
+in the health of the world's women and children
+* Over a decade, regular reports from Countdown showed important progress by many
+high-burden countries in increasing coverage with cost-effective, evidence-based
+health interventions, and in preventing deaths of mothers and children
+* Yet, substantial, reliable investments are required to achieve global targets and reduce
+inequalities between and within countries
+* Lessons learned from Countdown can inform global monitoring and accountability in
+the era of Sustainable Development Goals
+
+2049
+
+Review
+
+London School of Hygiene &
+Tropical Medicine, London, UK
+(J Lawn MD)
+Correspondence to:
+Dr Cesar G Victora, Federal
+University of Pelotas,
+96001 Pelotas, Brazil
+cvictora@gmail.com
+For more on Countdown to
+2015 see http://www.
+countdown2015mnch.org
+See Online for appendix
+For more on the Commission on
+Information and Accountability
+for Women's and Children's
+Health and the Independent
+Expert Review Groups see http://
+www.who.int/woman_child_
+accountability/about/coia/en/
+For more on the SDGs see
+https://sustainabledevelopment.
+un.org/topics/
+sustainabledevelopmentgoals
+
+Sustainable Development Goal (SDG) era. We assess
+changes in the evidence and in data availability over this
+period, and their implications for programme managers
+and decision makers. We conclude by turning a crucial
+lens on the SDG framework and future accountability
+efforts, drawing on Countdown's monitoring experience.
+
+The 2015 Countdown Results
+Data
+We have previously reported on Countdown's data
+sources and methods,12,13 and these are described in detail
+in the panel and the appendix (pp 3-4). In this section,
+we summarise findings for 2015 with an emphasis on
+time trends; the full results are available in the 2015
+report.
+Based on modelled estimates, the global maternal
+mortality ratio has decreased by around 45% over the past
+two decades, and the number of annual maternal deaths
+has dropped from around 523 000 to 289 000.16 Although
+mortality reductions seem to have accelerated--threequarters of Countdown countries reduced maternal
+mortality faster in 2000-13 than in the 1990s13--very few
+Countdown countries will achieve MDG 5. A 2009 analysis
+of maternal deaths worldwide reported that more than
+half of these were due to haemorrhage, hypertensive
+disorders, and sepsis--causes that are preventable
+through the provision of quality antenatal, delivery, and
+postnatal care.17 Recognition of the role of contraception to
+reduce maternal and newborn deaths has led to a major
+Panel: Countdown data sources and methods
+Most coverage, equity, and nutrition data come from
+standardised population-based surveys (Demographic and
+Health Surveys [DHS], Multiple Indicator Cluster Surveys
+[MICS], or other nationally representative surveys that meet
+data quality standards). Mortality data are provided by United
+Nation's sources.
+Intervention coverage was monitored for the 75 Countdown
+countries with data from 2009 to 2015. Coverage trends are
+derived from countries that had at least two
+datapoints, one from between 2000 and 2008, and the second
+from 2009 to 2014. The composite coverage index (CCI) is a
+weighted average of eight interventions along the continuum
+of care, all of which have been available in most countries for
+at least a decade.14,15 Results on socioeconomic inequalities are
+based on wealth quintiles calculated on the basis of household
+assets.15 Trends in CCI were estimated with 47 Countdown
+countries with at least two surveys (either DHS or MICS) where
+CCI was available, with survey years ranging from 1994 to
+2014, using a multilevel model (appendix pp 3-4).
+Health systems and policy indicators are derived from global
+databases maintained by the WHO and other UN
+organisations, and financing data are abstracted from
+datasets maintained by the Organization for Economic
+Co-operation and Development Assistance Committee.
+
+2050
+
+increase in resources for family planning programmes.18
+Evidence of the importance of reaching adolescents with
+family planning and nutrition programmes for improving
+birth outcomes, as well as their own health, has also
+resulted in increased attention to this population group.19,20
+The growing recognition of stillbirths as a public health
+problem--2*6 million annual third trimester stillbirths,
+with 1*2 million of these occurring in the intrapartum
+period--led Countdown to report on the stillbirth rate
+since 2010. Unfortunately, global visibility for stillbirths
+might remain limited in the SDG era in view of the
+absence of a specific target.21
+The global under-5 mortality rate has dropped by 53%
+since 1990, from 91 deaths per 1000 livebirths to 43 per
+1000 livebirths in 2015.22 And, the global annual rate of
+reduction has steeply accelerated over time, suggesting
+that more progress can be expected in the coming years.
+In 2000, the leading causes of the 10*8 million under-5
+deaths were neonatal conditions (33%), diarrhoea (22%),
+pneumonia (21%), malaria (9%), and AIDS (3%).23
+Estimates for 2015 indicate 5*9 million deaths a year22
+with a major shift in the causes of death: preterm birth
+complications cause 18% of all under-5 deaths, and
+along with other neonatal causes represent 45% of all
+deaths. Deaths due to pneumonia (16%), diarrhoea (9%),
+malaria (5%), and AIDS (1%) have declined in relative
+terms, and even more so in absolute terms.24 The
+growing concentration of deaths in the newborn period
+and the improved understanding about causes of
+newborn deaths has sparked the scale-up of long-existing
+interventions and the development of new ones.
+The past 10 years have also seen a growing understanding
+of the role of nutrition in mortality and human
+development.25,26 Suboptimal nutrition, including fetal
+growth restriction, stunting, wasting, and deficiencies of
+vitamin A and zinc along with suboptimum breastfeeding,
+is an underlying cause of 45% of all deaths of children
+younger than 5 years.25
+Progress in the Countdown countries in reducing
+maternal and under-5 mortality since 1990 is
+summarised in table 1. A third of the 75 countries
+achieved the annual rate of reduction of 4*4% or higher
+in under-5 mortality that was needed to reach MDG 4 in
+2015, but only six countries have achieved the annual
+rate of reduction of 5*5% or higher in maternal
+mortality required by MDG 5. The successful countries
+are flagged in table 1. Four countries--Cambodia,
+Eritrea, Nepal, and Rwanda--have achieved both MDGs
+4 and 5.
+Table 1 also shows another measure of progress, based
+on whether each country has met the mortality thresholds
+originally set for inclusion as a Countdown country. There
+are two such thresholds. The first group of 60 countries
+was selected in 2005 for monitoring by Countdown based
+on their high levels of under-5 mortality--either an
+under-5 mortality rate of 90 per 1000 livebirths or greater,
+or an absolute annual number of deaths of 50 000 or more.
+www.thelancet.com Vol 387 May 14, 2016
+
+Review
+
+Selection criteria, why entered
+Year
+entered
+Countdown
+
+U5MR
+(2015)
+
+Number of
+% annual
+under-5 deaths
+reduction
+(1990-2015) (thousands;
+2015)
+
+Share of under-5 MMR
+deaths occurring (2013)
+in neonatal
+period (2015)
+
+% annual
+reduction
+(1990-2013)
+
+Number of
+maternal
+deaths
+(2013)
+
+Country
+graduated from
+Countdown
+(yes/no)
+
+Afghanistan
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+91*1
+
+2*7%
+
+94 261
+
+38*4
+
+400
+
+4*7%
+
+4200
+
+Angola
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+156*9
+
+1*5%
+
+169 310
+
+31*4
+
+460
+
+4*9%
+
+4400
+
+No
+No
+
+Azerbaijan
+
+2005
+
+U5MR 90
+
+31*7
+
+4*4%*
+
+7206
+
+59*2
+
+26
+
+3*6%
+
+43
+
+Yes
+
+Bangladesh
+
+2005
+
+50 000 child deaths
+
+37*6
+
+5*4%*
+
+119 326
+
+62*3
+
+170
+
+5*0%
+
+5200
+
+No
+
+Benin
+
+2005
+
+U5MR 90
+
+99*5
+
+2*4%
+
+37 092
+
+32*2
+
+340
+
+2*4%
+
+1300
+
+No
+
+Bolivia
+
+2008
+
+MMR >200 and 750 maternal
+deaths
+
+38*4
+
+4*7%*
+
+9415
+
+51*2
+
+200
+
+4*0%
+
+550
+
+Yes
+
+Botswana
+
+2005
+
+U5MR 90
+
+43*6
+
+0*9%
+
+2488
+
+51*0
+
+170
+
+3*1%
+
+83
+
+Yes
+
+Brazil
+
+2005
+
+50 000 child deaths
+
+16*4
+
+5*2%*
+
+52 415
+
+54*6
+
+69
+
+2*4%
+
+2100
+
+No
+
+Burkina Faso
+
+2005
+
+U5MR 90 and 50 000
+
+88*6
+
+3*3%
+
+60 477
+
+30*3
+
+400
+
+2*9%
+
+2800
+
+No
+
+Burundi
+
+2005
+
+U5MR 90 and 50 000
+
+81*7
+
+3*0%
+
+36 970
+
+35*8
+
+740
+
+2*3%
+
+3400
+
+Yes
+
+Cambodia
+
+2005
+
+U5MR 90 and 50 000
+
+28*7
+
+5*6%*
+
+10 257
+
+51*5
+
+170
+
+8*1%
+
+670
+
+Yes
+
+Cameroon
+
+2005
+
+U5MR 90 and 50 000
+
+87*9
+
+1*8%
+
+71 348
+
+29*5
+
+590
+
+0*9%
+
+4900
+
+No
+
+Central African
+Republic
+
+2005
+
+U5MR 90
+
+130*1
+
+1*2%
+
+21 029
+
+33*3
+
+880
+
+1*3%
+
+1400
+
+No
+
+138*7
+
+1*7%
+
+82 728
+
+28*8
+
+980
+
+2*3%
+
+5800
+
+No
+
+10*7
+
+6*5%*
+
+181 574
+
+51*5
+
+32
+
+4*7%
+
+5900
+
+No
+
+Chad
+
+2005
+
+U5MR 90 and 50 000
+
+China
+
+2005
+
+50 000 child deaths
+
+Comoros
+
+2011
+
+Low income
+
+73*5
+
+2*1%
+
+1897
+
+46*9
+
+350
+
+2*6%
+
+90
+
+Congo
+
+2005
+
+U5MR 90
+
+45*0
+
+2*9%
+
+7269
+
+40*6
+
+410
+
+2*1%
+
+690
+
+Cote d'Ivoire
+
+2005
+
+U5MR 90 and 50 000
+
+92*6
+
+2*0%
+
+75 393
+
+41*7
+
+720
+
+0*1%
+
+5300
+
+No
+
+Djibouti
+
+2005
+
+U5MR 90
+
+65*3
+
+2*4%
+
+1429
+
+51*6
+
+230
+
+2*4%
+
+55
+
+Yes
+
+DR Congo
+
+2005
+
+U5MR 90 and 50 000
+
+98*3
+
+2*6%
+
+304 558
+
+30*9
+
+730
+
+1*5%
+
+21 000
+
+No
+
+Egypt
+
+2005
+
+50 000 child deaths
+
+24
+
+5*1%*
+
+65 775
+
+54*5
+
+45
+
+4*1%
+
+860
+
+No
+
+Equatorial Guinea
+
+2005
+
+U5MR 90
+
+94*1
+
+2*8%
+
+2655
+
+35*6
+
+290
+
+7*0%
+
+79
+
+No
+
+Eritrea
+
+2008
+
+MMR >200 and 750 maternal
+deaths
+
+46*5
+
+4*7%*
+
+7764
+
+39*4
+
+380
+
+6*2%
+
+880
+
+No
+
+184 186
+
+47*5
+
+420
+
+5*0%
+
+13 000
+
+No
+
+2579
+
+46*3
+
+240
+
+2*0%
+
+130
+
+Yes
+Yes
+
+Ethiopia
+
+2005
+
+U5MR 90 and 50 000
+
+59*2
+
+5*0%*
+
+Gabon
+
+2005
+
+U5MR 90
+
+50*8
+
+2*4%
+
+..
+Yes
+
+Gambia
+
+2005
+
+U5MR 90
+
+68*9
+
+3*6%
+
+5540
+
+44*6
+
+430
+
+2*1%
+
+340
+
+Ghana
+
+2005
+
+U5MR 90 and 50 000
+
+61*6
+
+2*9%
+
+54 061
+
+47*0
+
+380
+
+2*9%
+
+3100
+
+No
+
+Guatemala
+
+2008
+
+MMR >200 and 750 maternal
+deaths
+
+29*1
+
+4*1%
+
+12 858
+
+46*2
+
+140
+
+2*8%
+
+660
+
+Yes
+No
+
+Guinea
+
+2005
+
+U5MR 90 and 50 000
+
+93*7
+
+3*7%
+
+42 073
+
+34*0
+
+650
+
+2*2%
+
+2800
+
+Guinea-Bissau
+
+2005
+
+U5MR 90
+
+92*5
+
+3*6%
+
+5883
+
+44*0
+
+560
+
+2*2%
+
+360
+
+No
+
+Haiti
+
+2005
+
+U5MR 90
+
+69
+
+3*0%
+
+17 841
+
+36*6
+
+380
+
+2*4%
+
+1000
+
+Yes
+No
+
+India
+
+2005
+
+U5MR 90 and 50 000
+
+47*7
+
+3*9%
+
+1 200 998
+
+57*9
+
+190
+
+4*5%
+
+50 000
+
+Indonesia
+
+2005
+
+50 000 child deaths
+
+27*2
+
+4*5%
+
+147 162
+
+50*2
+
+190
+
+3*5%
+
+8800
+
+No
+
+Iraq
+
+2005
+
+U5MR 90 and 50 000
+
+32
+
+2*1%
+
+38 682
+
+58*1
+
+67
+
+2*0%
+
+710
+
+Yes
+
+Kenya
+
+2005
+
+U5MR 90 and 50 000
+
+49*4
+
+2*9%
+
+74 429
+
+45*3
+
+400
+
+0*8%
+
+6300
+
+Kyrgyzstan
+
+2011
+
+Low income
+
+21*3
+
+4*5%
+
+3644
+
+54*5
+
+75
+
+0*5%
+
+110
+
+..
+
+No
+
+Laos
+
+2008
+
+MMR >550
+
+66*7
+
+3*6%
+
+11 613
+
+44*9
+
+220
+
+6*8%
+
+400
+
+Yes
+
+Lesotho
+
+2008
+
+MMR >550
+
+90*2
+
+-0*1%
+
+5570
+
+36*7
+
+490
+
+1*7%
+
+280
+
+Yes
+
+Liberia
+
+2005
+
+U5MR 90
+
+69*9
+
+5*2%*
+
+10 509
+
+34*7
+
+640
+
+2*8%
+
+980
+
+Yes
+
+Madagascar
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+49*6
+
+4*7%*
+
+40 075
+
+40*4
+
+440
+
+2*3%
+
+3500
+
+Yes
+
+Malawi
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+64*0
+
+5*3%*
+
+40 048
+
+34*3
+
+510
+
+3*2%
+
+3400
+
+Yes
+
+Mali
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+114*7
+
+3*2%
+
+82 710
+
+33*2
+
+550
+
+3*1%
+
+4000
+
+No
+
+Mauritania
+
+2005
+
+U5MR 90
+
+84*7
+
+1*3%
+
+11 050
+
+42*5
+
+320
+
+2*9%
+
+430
+
+No
+
+Mexico
+
+2005
+
+>50 000 child deaths
+
+13*2
+
+5*0%*
+
+31 278
+
+53*1
+
+49
+
+2*5%
+
+1100
+
+Yes
+
+Morocco
+
+2008
+
+MMR >200 + 750 maternal
+deaths
+
+27*6
+
+4*3%
+
+19 759
+
+64*3
+
+120
+
+4*1%
+
+880
+
+Yes
+
+Mozambique
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+78*5
+
+4*5%*
+
+82 387
+
+35*0
+
+480
+
+4*3%
+
+4800
+
+No
+
+(Table 1 continues on next page)
+
+www.thelancet.com Vol 387 May 14, 2016
+
+2051
+
+Review
+
+Selection criteria, why entered
+Year
+entered
+Countdown
+
+U5MR
+(2015)
+
+Number of
+% annual
+under-5 deaths
+reduction
+(1990-2015) (thousands;
+2015)
+
+Share of under-5 MMR
+deaths occurring (2013)
+in neonatal
+period (2015)
+
+% annual
+reduction
+(1990-2013)
+
+Number of
+maternal
+deaths
+(2013)
+
+Country
+graduated from
+Countdown
+(yes/no)
+
+(Continued from previous page)
+Myanmar
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+50*0
+
+3*2%
+
+46 284
+
+52*5
+
+200
+
+4*5%
+
+1900
+
+Yes
+
+Nepal
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+35*8
+
+5*5%*
+
+19 900
+
+61*6
+
+190
+
+6*0%
+
+1100
+
+Yes
+
+Niger
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+95*5
+
+4*9%*
+
+87 967
+
+29*0
+
+630
+
+2*0%
+
+5600
+
+No
+
+Nigeria
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+108*8
+
+2*7%
+
+750 111
+
+32*0
+
+560
+
+3*1%
+
+40 000
+
+No
+
+North Korea
+
+2008
+
+MMR >200 and 750 maternal
+deaths
+
+24*9
+
+2*2%
+
+9271
+
+54*9
+
+87
+
+-0*1%
+
+310
+
+Yes
+
+Pakistan
+
+2005
+
+U5MR 90 and 50 000
+
+81*1
+
+2*1%
+
+431 568
+
+56*7
+
+170
+
+3*6%
+
+7900
+
+Yes
+
+Papua New Guinea
+
+2005
+
+U5MR 90
+
+57*3
+
+1*8%
+
+11 963
+
+42*9
+
+220
+
+3*3%
+
+460
+
+Yes
+
+Peru
+
+2008
+
+MMR >200 and 750 maternal
+deaths
+
+16*9
+
+6*2%*
+
+10 483
+
+48*7
+
+89
+
+4*4%
+
+530
+
+Yes
+
+-0*6%
+
+3000
+
+No
+
+1300
+
+Yes
+
+Philippines
+
+2005
+
+50 000 child deaths
+
+28*0
+
+2*9%
+
+65 613
+
+45*1
+
+120
+
+Rwanda
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+41*7
+
+5*2%*
+
+14 207
+
+44*3
+
+320
+
+6*1%
+
+Sao Tome and
+Principe
+
+2011
+
+Low income
+
+47*3
+
+3*4%
+
+297
+
+36*7
+
+210
+
+2*8%
+
+Senegal
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+47*2
+
+4*4%*
+
+27 059
+
+44*6
+
+320
+
+2*2%
+
+1700
+
+Sierra Leone
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+120*4
+
+3*1%
+
+26 466
+
+28*8
+
+1100
+
+3*3%
+
+2400
+
+Solomon Islands
+
+2011
+
+Low income
+
+28*1
+
+1*4%
+
+470
+
+43*2
+
+130
+
+3*8%
+
+23
+
+14
+
+**
+Yes
+No
+**
+
+Somalia
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+136*8
+
+1*1%
+
+60 537
+
+29*2
+
+850
+
+1*8%
+
+3900
+
+No
+
+South Africa
+
+2005
+
+50 000 child deaths
+
+40*5
+
+1*6%
+
+41 930
+
+26*6
+
+140
+
+0*4%
+
+1500
+
+Yes
+
+Sudan
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+70*1
+
+2*4%
+
+89 488
+
+43*1
+
+360
+
+3*8%
+
+4600
+
+No
+
+South Sudan
+
+2012
+
+New, high burden country
+
+92*6
+
+4*0%
+
+39 487
+
+43*1
+
+730
+
+3*0%
+
+3000
+
+No
+
+Swaziland*
+
+2005
+
+U5MR 90
+
+60*7
+
+0*8%
+
+2221
+
+23*4
+
+310
+
+2*5%
+
+120
+
+Yes
+
+Tajikistan
+
+2005
+
+U5MR 90
+
+44*8
+
+3*5%
+
+11 799
+
+46*6
+
+44
+
+1*9%
+
+120
+
+Yes
+
+Tanzania
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+48*7
+
+4*9%*
+
+98 180
+
+39*3
+
+410
+
+3*5%
+
+7900
+
+No
+
+Togo
+
+2005
+
+U5MR 90
+
+78*4
+
+2*5%
+
+19 512
+
+34*3
+
+450
+
+1*6%
+
+1100
+
+Yes
+
+Turkmenistan
+
+2005
+
+U5MR 90
+
+51*4
+
+2*3%
+
+5868
+
+44*0
+
+61
+
+0*3%
+
+68
+
+Yes
+
+Uganda
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+54*6
+
+4*9%*
+
+85 291
+
+34*9
+
+360
+
+3*2%
+
+5900
+
+Uzbekistan
+
+2011
+
+Low income
+
+39*1
+
+2*4%
+
+26 205
+
+52*1
+
+36
+
+2*6%
+
+220
+
+**
+
+Vietnam
+
+2011
+
+Low income
+
+21*7
+
+3*4%
+
+34 191
+
+52*4
+
+49
+
+4*4%
+
+690
+
+**
+
+Yemen
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+41*9
+
+4*4%*
+
+34 351
+
+53*1
+
+270
+
+2*3%
+
+2100
+
+Yes
+
+Zambia
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+64*0
+
+4*4%*
+
+38 990
+
+33*8
+
+280
+
+3*1%
+
+1800
+
+Yes
+
+Zimbabwe
+
+2005
+
+U5MR 90 and 50 000 deaths
+
+70*7
+
+0*3%
+
+38 087
+
+33*7
+
+470
+
+0*4%
+
+2100
+
+Yes
+
+No
+
+Of note, 2004 is the baseline year during which Countdown assessed countries for monitoring on the basis of U5MR (U5MR 90 or 50 000 deaths). In 2008, eight additional countries were included on the basis
+of MMR using 2005 data (MMR >550 or MMR >200 and 750 maternal deaths). In 2012, six additional low-income countries were included to reconcile the Countdown and Global Strategy country lists: Comoros,
+Kyrgyzstan, Sao Tome and Principe, and Solomon Islands. The 2005 report includes the U5MR but not the absolute number of deaths. U5MR=under-5 mortality rate per 1000 livebirths. MMR=maternal mortality
+rate per 100 000 livebirths. *Average annual rate of reduction of at least 4*4% for U5MR between 1990 and 2015. Average annual rate of reduction of 5*5% or higher for MMR between 1990 and 2013.
+
+Table 1: Countdown countries and so-called graduation status based on original entry criteria
+
+Among these 60 countries, 28 have now graduated from
+Countdown by reducing child mortality below this
+threshold. In 2008, Countdown broadened its scope, by
+including eight additional countries with maternal
+mortality ratios of more than 550 per 100 000 livebirths, or
+a ratio of more than 200 plus an absolute annual number
+of maternal deaths of more than 750. Of the eight, seven
+have now graduated by reducing maternal mortality below
+this threshold. The remaining seven priority countries
+were added after 2008, to maintain consistency with the
+priority low-income countries listed in the Global Strategy
+for Women's and Children's Health, and to include South
+Sudan after it was formed in 2012.
+2052
+
+Alternative estimates for maternal27 and child28
+mortality are available from the Institute of Health
+Metrics and Evaluation. Although their estimates of
+levels and trends for specific countries might differ from
+those presented in table 1, the overall conclusions are the
+same: a small minority of low-income and middle-income
+countries will reach either MDG 4 or 5.
+In the next four sections, we summarise recent results
+from Countdown's four streams of technical work:
+coverage, equity, health systems and policies, and
+financing. We also highlight progress in data availability
+and some of the most important data gaps that remain in
+each of these areas.
+www.thelancet.com Vol 387 May 14, 2016
+
+Review
+
+100
+
+Median national coverage (%)
+
+80
+
+60
+
+40
+
+20
+
+55
+
+90
+
+55
+
+23
+
+85
+
+65
+
+58
+
+28
+
+50
+
+39
+
+67
+
+87
+
+85
+
+87
+
+88
+
+38
+
+54
+
+34
+
+39
+
+79
+
+42
+
+Pre-pregnancy
+
+Pregnancy
+
+r
+fo
+Ea
+tn
+rm y
+rly
+at
+al
+ot
+Ex
+in
+vis
+he
+iti
+clu
+at
+rs
+it
+siv
+io
+eb
+n o for b
+re
+In
+ab
+fb
+as
+tro
+ies
+re
+tfe
+du
+as
+ed
+tfe
+ct
+i
+io
+ed
+n o ng (
+in
+<6
+g
+ff
+oo
+m
+on
+ds
+t
+(
+h
+6
+Fir
+s)
+-8
+DT
+st
+m
+do
+P3
+on
+se
+i
+t
+m
+hs
+m
+m
+)
+ea
+un
+sle
+Vi
+isa
+si
+ta
+tio
+m
+m
+m
+n
+in
+un
+Hi
+A
+b3
+isa
+su
+pp
+im
+tio
+lem
+m
+n
+Ch
+un
+Ca
+en
+ild
+isa
+ret
+a
+r
+tio
+se
+en
+tio
+ek
+n
+n(
+sle
+ing
+2d
+ep
+fo
+i
+os
+ng
+r
+s
+Fir
+es
+ym
+un
+)
+stde
+pt
+lin
+om
+rI
+ea
+T
+so
+Ns
+nt
+Or
+fp
+*
+im
+al
+ne
+ala
+re
+um
+hy
+ria
+o
+d
+Im
+lt
+nia
+ra
+re
+pr
+tio
+at
+ov
+ns
+m
+ed
+e
+a
+nt
+lts
+dr
+*
+in
+Im
+kin trea
+tm
+pr
+g
+ov
+wa
+e
+nt
+ed
+te
+sa
+rs
+ni
+ou
+ta
+r
+ce
+tio
+s
+nf
+ac
+ilit
+ies
+
+ve
+
+io
+ta
+
+td
+
+eli
+
+ct
+te
+ro
+
+vis
+
+it
+
+an
+
+Po
+s
+
+at
+
+al
+
+nd
+tte
+
+Po
+s
+
+tn
+
+da
+ille
+
+Sk
+
+at
+
+n
+
+*
+
+)
+
+an
+
+sp
+nu
+
+ta
+al
+
+te
+
+du
+ria
+
+on
+Ne
+
+ala
+m
+
+cy
+
+its
+
+gn
+re
+
+rin
+
+ar
+lc
+ta
+
+gp
+
+e(
+
+4
+
+vis
+
+vis
+1
+
+e(
+ar
+
+lc
+ta
+
+Tp
+f
+
+or
+
+An
+
+te
+
+na
+
+na
+te
+
+An
+
+IP
+
+De
+
+m
+
+an
+
+df
+
+or
+
+fa
+
+m
+
+ily
+
+pl
+
+an
+
+ni
+
+ng
+
+sa
+
+tis
+
+fie
+
+it)
+
+d
+
+0
+
+Birth
+
+Postnatal
+
+Infancy
+
+Childhood
+
+Country reporting data 2009 or later
+
+Figure 1: Coverage of interventions varies across the continuum of care
+IPTp=intermittent preventive treatment of malaria during pregnancy. DTP3=three doses of combined diphtheria/tetanus/pertussis vaccine immunisation coverage.
+Hib3=three doses of Haemophilus influenzae type B immunisation coverage. ITNs=insecticide-treated net use. *Countries where at least 75% of the population is at
+risk of malaria and where a substantial proportion (50% or more) of malaria cases is due to Plasmodium falciparum (n=44) or where 50-74% of the population is at risk
+of malaria and where a substantial proportion (50% or more) of malaria cases is due to P falciparum (n=8). Source: Immunisation rates, WHO and UNICEF; postnatal
+visit for mothers and postnatal visit for babies, Saving Newborn Lives analysis of Demographic and Health Surveys; improved water and sanitation, WHO and UNICEF
+Joint Monitoring Programme for Water Supply and Sanitation; all other indicators, UNICEF global database, July 2015, based on Demographic and Health Surveys,
+Multiple Indicator Cluster Surveys and other national surveys; does not include 2014-15 Rwanda data.
+
+Coverage
+Figure 1 shows coverage across the continuum of care for
+selected high-impact interventions, and the service
+contacts through which these and other interventions can
+be delivered. The bars show the median coverage reported
+by all Countdown countries with data available in 2009 or
+later; the grey dots show the values for individual
+countries. Coverage levels are particularly low around the
+time of birth, and for case-management interventions for
+childhood illnesses. The list of coverage indicators tracked
+in Countdown has evolved with time. For example,
+indicators for rotavirus vaccine and pneumococcal
+conjugate vaccine were added in 2014 because of increased
+data availability following rapid policy adoption by
+countries. We no longer track the indicator of antibiotic
+treatment for childhood pneumonia, because validation
+studies have shown that this cannot be measured
+accurately in household surveys.29 We have retained the
+indicator on oral rehydration therapy (oral rehydration
+salts), increased fluids, and continued feeding) to allow
+the examination of trends. However, WHO/UNICEF
+guidelines now recommend oral rehydration salts and
+zinc, and in the future it will be important to track
+coverage for both. In 2015, 37 countries had coverage data
+www.thelancet.com Vol 387 May 14, 2016
+
+for zinc treatment of diarrhoea. The median coverage was
+1%, with a high of 28% in Malawi. Results for the full set
+of Countdown coverage indicators are available in the
+appendix (pp 5-7) and appendix (pp 8-11) provides
+information about HIV and caesarean-section indicators.
+Data availability (figure 1) has improved for all indicators
+measured through household surveys. For example, the
+number of countries with information about postnatal care
+visits for babies increased from five during the period
+2000-063 to 35 in 2009-14. The rapid expansion of
+household surveys in the wake of the MDGs led to real
+progress in ensuring that all countries have recent,
+high-quality data to guide their programmes and policies.30,31
+Our results continue to show unacceptably low
+coverage for most of these interventions and service
+contacts, with enormous ranges among countries
+around the global median values. Even interventions for
+the prevention of malaria, which have shown greater
+accelerations in coverage than any other indicators in
+recent years,32 are not reaching their life-saving potential.
+In endemic countries with available data, only 23% of
+women report receipt of malaria prevention during
+pregnancy, and only 38% of children younger than
+5 years were reported to be sleeping under an
+
+For WHO and UNICEF
+immunisation rates see
+www.data.unicef.org
+For more on the Demographic
+and Health Surveys see
+www.dhsprogram.com
+
+2053
+
+Review
+
+Countries
+with data (n)
+
+Median coverage (%)
+
+2000-08
+
+Change
+(%
+points)
+
+Proportion of
+gap closed
+(%)
+
+69%
+
+2009-14
+
+Hib3 immunisation*
+
+13
+
+84%
+
+95%
+
+11
+
+DTP3 immunisation*
+
+74
+
+77%
+
+88%
+
+11
+
+47%
+
+First-dose measles immunisation*
+
+71
+
+76%
+
+85%
+
+9
+
+38%
+38%
+
+First-line antimalarial treatment
+
+21
+
+8%
+
+43%
+
+35
+
+Antenatal care (1 visit)
+
+63
+
+85%
+
+90%
+
+6
+
+36%
+
+Children sleeping under ITNs
+
+38
+
+16%
+
+40%
+
+24
+
+29%
+
+Vitamin A supplementation (2 doses)
+
+47
+
+86%
+
+90%
+
+4
+
+29%
+
+Improved drinking water sources
+
+73
+
+73%
+
+79%
+
+6
+
+22%
+
+Demand for family planning satisfied
+
+43
+
+54%
+
+64%
+
+10
+
+21%
+
+Skilled attendant at delivery
+
+66
+
+55%
+
+65%
+
+9
+
+21%
+
+IPTp for malaria during pregnancy
+
+26
+
+7%
+
+25%
+
+18
+
+19%
+
+Exclusive breastfeeding (<6 months)
+
+58
+
+33%
+
+41%
+
+9
+
+13%
+
+Care-seeking for symtoms of
+pneumonia
+
+57
+
+48%
+
+54%
+
+6
+
+12%
+
+Antenatal care (4 visits)
+
+44
+
+50%
+
+56%
+
+6
+
+12%
+
+Oral rehydration salts treatment
+
+58
+
+30%
+
+38%
+
+8
+
+11%
+
+Oral rehydration therapy with
+continued feeding
+
+49
+
+42%
+
+48%
+
+6
+
+10%
+
+Improved sanitation facilities
+
+73
+
+38%
+
+42%
+
+4
+
+6%
+
+To note, if more than one survey was conducted in a period, the most recent was used. Tables include only indicators
+for which trend data are available in the datasets shared by UNICEF to date. Hib3=three doses of Haemophilus
+influenzae type B immunisation coverage. DTP3=three doses of combined diphtheria/tetanus/pertussis vaccine
+immunisation coverage. ITNs=insecticide-treated net use. IPTp=intermittent preventive treatment of malaria during
+pregnancy. *2004 data used for first time period and 2012 data used for second time period. Analysis includes
+countries where at least 75% of the population is at risk of malaria and where a substantial proportion (50% or more)
+of malaria cases is due to Plasmodium falciparum (n=44) or where 50-74% of the population is at risk of malaria and
+where a substantial proportion (50% or more) of malaria cases is due to P falciparum (n=8). Includes 2015 data.
+Source: Immunization rates, WHO and UNICEF; improved water and sanitation, WHO and UNICEF Joint Monitoring
+Programme for Water Supply and Sanitation; all other indicators, UNICEF global database, July, 2015, based on
+Demographic and Health Surveys, Multiple Indicator Cluster Surveys, and other national surveys; does not include
+2014-15 Rwanda data.
+
+Table 2: Changes in national coverage of Countdown interventions from 2000 to 2008 to 2009 to 2014
+using most recent data in each period, and by percentage of the gap to 100% coverage closed between
+the two periods
+
+insecticide-treated net. Treatment interventions are still
+reaching fewer than 40% of children with malaria or
+diarrhoea, and only 54% of children with symptoms of
+pneumonia are taken outside the home for care.
+Immunisations continue to be an exception, with
+median coverage generally greater than 85%, although
+intercountry variation is still marked.
+Time trends in intervention coverage were featured in
+an earlier publication32 and are updated in table 2.
+Three broad patterns are evident. First, the three malaria
+interventions that started less than 20% in the earlier
+period showed substantial increases with time. HIV
+interventions are not shown in table 2 because baseline
+data were not available due to changes in the methods,
+but the prevention of mother-to-child transmissions with
+antiretrovirals reached 53% in the most recent period
+with a range of 1% to more than 95% across countries
+with data. Second, some interventions already showed
+high coverage around 2000, and increased modestly in
+2054
+
+absolute terms, partly because there was little scope for
+increase; these include antenatal care (at least one visit),
+improved drinking water sources, and the three vaccines.
+Nevertheless, a substantial proportion of the gap was
+closed for these interventions. The third group includes
+all other interventions, which had less than 60% coverage
+up to 2009 and increased by 10% points or less: family
+planning, four or more antenatal care visits, skilled birth
+attendance, improved sanitation facilities, exclusive
+breastfeeding, and all the case-management interventions
+against diarrhoea and pneumonia. These patterns
+suggest that rapid coverage increases are possible when
+interventions are prioritised and generously funded as in
+the case of the malaria or HIV indicators. On the other
+hand, very little progress was noted for interventions that
+require service contacts along the continuum of care and
+24/7 service availability, particularly during pregnancy
+and childbirth, and for the management of childhood
+diarrhoea and pneumonia.
+Further improvement is needed urgently in the quantity
+and quality of data for monitoring coverage. For example,
+there is no guarantee that women and children who report
+a service contact actually receive the full complement of
+interventions that should be delivered during that contact.
+Reported coverage for antenatal, delivery, and postnatal
+care therefore represent so-called best case scenarios for
+actual coverage of interventions that should be provided
+during those contacts. New Countdown secondary
+analyses of patterns of antenatal care in seven countries
+show widely varying patterns of drop-off between the first
+antenatal care visit and subsequent visits, with women
+reporting more visits having an increased probability of
+receiving recommended interventions. Redoubled efforts
+are needed to ensure that contact with health services
+results in the delivery of all recommended life-saving
+interventions. New approaches are also needed to link
+household surveys and health facility survey data to
+generate essential data for service quality that are currently
+lacking (appendix pp 12-13).
+
+Equity
+The equity dimension was noticeably absent from the
+MDGs.33 Since its first report, Countdown has provided
+original analyses of inequalities in intervention coverage
+by wealth, sex of the child, place of residence, and other
+social determinants. These analyses consistently show
+systematic pro-rich inequalities for virtually all coverage
+indicators.34 The gaps are wider for interventions, such
+as antenatal care (four or more visits) and skilled birth
+attendance, that require access to fixed health facilities,
+compared with interventions such as immunisation
+that can be delivered at community level.34 Our analyses
+have also shown that countries that made rapid progress
+in coverage were those that effectively reached the
+poorest families.35
+The growing availability of surveys allows disaggregated
+analyses of trends in coverage for the poorest and richest
+www.thelancet.com Vol 387 May 14, 2016
+
+Review
+
+Health systems and policies
+Supportive policy environments and functional health
+systems with adequate human resources are prerequisites
+for high and equitable coverage. The number of policy
+and systems indicators tracked in Countdown has
+increased from five in 2005 to 11 in this year's 2015 report,
+including four measures of systems that are crucial to
+effective service delivery for women and children. These
+indicators are consistent with international frameworks.36,37
+Although further work is needed to develop comparable
+metrics for implementation strength at national and
+subnational levels, Countdown is finalising a set of
+instruments to describe relevant policies and aspects of
+RMNCH programme implementation across countries
+and over time.
+Notable progress in adoption of supportive policies has
+occurred across the Countdown countries (appendix p 14
+shows adoption rates for ten essential policies based on a
+2013-14 WHO survey). Figure 3 shows that the number
+of countries that adopted each of six policies for which
+trend data are available increased substantially between
+2008 and 2014. However, more progress is needed,
+particularly for policies that are lagging such as maternity
+protection in accordance with Convention 183 of the
+International Labour Organisation (including maternity
+leave and employment protection during pregnancy and
+the postnatal period) and the International Code of
+Marketing for Breastmilk Substitutes.
+Increased investment in information systems has
+resulted in an expansion of available data for skilled
+health professionals.38 Three-quarters of Countdown
+countries remain below 22*8 physicians, nurses, and
+midwives per 10 000 population, a threshold WHO
+considers necessary to achieve relatively high coverage
+www.thelancet.com Vol 387 May 14, 2016
+
+B
+100
+
+90
+
+90
+
+80
+
+80
+Inequality level for CCI
+
+A
+100
+
+70
+CCI coverage
+
+quintiles of mothers and children, across a large number
+of countries. Figure 2 shows these results for the
+composite coverage index (CCI) in 47 Countdown
+countries with available information from several
+surveys. Globally, CCI coverage increased for both the
+richest and poorest quintiles, but the increase was
+steeper among the poorest (1*0% point per year
+[95% CI 0*8-1*1]) than for the richest (0*3% point
+[0*2-0*4]; figure 2A). The rich-poor gap declined from
+28% points in 2000 to 19% points by 2014. This finding
+indicates an increase in coverage equity in both absolute
+and relative terms (both trends with p<0*0001; figure 2B).
+Whereas the coverage gap between rich and poor
+mothers and children persists, inequalities are decreasing,
+at least for the eight long standing interventions that are
+part of the CCI.
+Similar to coverage, data availability for equity analyses
+has improved, but there is still much scope for progress.
+Repeated surveys with consistent measurement of equity
+stratifiers, such as wealth, sex, residence, or ethnic
+origin, are required to identify priority groups and track
+subnational progress over time.
+
+60
+50
+40
+30
+
+National
+Poorest 20%
+Richest 20%
+95% confidence band
+
+20
+10
+0
+2000
+
+2005
+
+Absolute inequality
+Relative inequality
+95% confidence band
+
+70
+60
+50
+40
+30
+20
+10
+
+2010
+
+0
+2000
+
+2015
+
+2005
+
+Year
+
+2010
+
+2015
+
+Year
+
+Figure 2: Global trends in the composite coverage index at national level and for the poorest and richest 20%
+of the national samples in 47 countries and (A) global trends in absolute (slope index of inequality) and
+relative (concentration index) inequalities in the composite coverage index (B)
+CCI=composite coverage index.
+
+2014
+
+2008
+93%
+
+Low osmolarity ORS and zinc
+for management of diarrhoea
+
+50%
+63%
+
+Community treatment of
+pneumonia with antibiotics
+
+29%
+38%
+37%
+
+International code of marketing
+of breastmilk substitutes
+
+69%
+
+Notification of maternal deaths
+Maternity protection
+(Convention 183)
+
+34%
+7%
+0%
+63%
+
+Midwives authorised
+for specific tasks
+
+40%
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Figure 3: Trends in the adoption of selected tracer policies at macropolicy and micropolicy level, 2008-14
+(68 Countdown countries, %)
+ORS=oral rehydration salts.
+
+of essential health interventions.38 The most recent
+estimates show a median density of skilled health
+professionals of 10*2 per 10 000 population in the
+Countdown countries, ranging from 1*6 per 10 000 in
+Madagascar and Niger to 142 per 10 000 population
+in Uzbekistan.
+Countdown has contributed to substantial increases in
+data availability on policies by helping to shape the
+contents of the WHO's biannual policy survey. More
+work is needed to overcome the limitations of the use of
+a survey-based approach, to ensure more timely and
+accurate information, and to explore associations
+between policies and changes in coverage levels. Efforts
+are under way to assess the feasibility of collection of data
+for selected tracer indicators of the quality of care
+(appendix pp 12-13).
+
+Financing
+The establishment of the MDG framework led to a
+major upswing in political prioritisation of women's
+and children's health,39 and official development
+2055
+
+Review
+
+assistance (ODA) surged after the MDG summit in
+2000.40 Although the growth in ODA slowed after the
+economic crisis in 2007-08, trends from 2003 to 2012 in
+Countdown countries show a tripling of ODA to
+maternal, newborn, and child health (from US$2 billion
+to $6 billion). Most of the investment was for general
+health care (including health systems support),
+reproductive health, malaria programmes, and
+immunisation programmes.40 During this same time
+period, ODA for projects that mention newborns grew
+exponentially, from $33 million to $1 billion, reflecting
+the growing visibility of newborn health, yet far too little
+in view that neonatal causes represent almost half of
+under-5 deaths. A comparison of the present estimates
+with those produced by the Institute of Health Metrics
+and Evaluation, the Partnership for Maternal Newborn
+and Child Health, and United Nations Population Fund
+is available in the full Countdown report. Although
+these funding increases and the spike in high level
+commitments to RMNCH between 2010 and 2015 are
+encouraging, more is needed. In particular, better
+targeting of resources to countries with the greatest
+need could help to narrow equity gaps and help to
+achieve the next set of goals.
+Each of the Countdown case studies include a detailed
+analysis of trends in financial flows to RMNCH, and
+show the complexity of the funding environment. The
+Peru and Ethiopia case studies, for example, both showed
+rapid recent growth in RMNCH expenditures. Yet the
+two countries used different resources and financing
+mechanisms to fund their programmes. Peru, an
+upper-middle-income country, relied mostly on domestic
+funding, whereas Ethiopia, a low-income country, relied
+heavily on external funding. Both countries have high
+levels of out-of-pocket spending, which must be
+addressed to make health care more affordable to
+disadvantaged population groups.
+What about the future? The general consensus across
+the panoply of resource tracking efforts is that ODA
+expenditures for RMNCH are increasing.40,41 For domestic
+spending there is insufficient data for RMNCH
+expenditure to estimate trends. The work of the Lancet
+Global Commission on Investing in Health, which
+emphasises the centrality of RMNCH to achieve global
+development, and the World Bank's recently announced
+Global Financing Facility for RMNCH, are signs that
+investments in RMNCH will continue to grow.42,43
+However, the multiplicity of goals and targets in the SDG
+framework could detract from a sustained and accelerated
+focus on RMNCH, leaving many donor-dependent
+countries short of funds. The most important future
+strategies could be those that shore-up the contribution
+of national sources to RMNCH, using mechanisms
+such as the establishment of concrete accountability
+procedures that strengthen the collaboration between
+citizens and governments and build more sustainable
+and efficient funding for RMNCH at local levels.
+2056
+
+Monitoring and accountability: how can the
+Countdown experience inform the SDGs?
+The MDGs encouraged global political consensus,
+provided a focus for advocacy and visibility, improved the
+targeting and flow of aid, and strengthened monitoring of
+process and outcome indicators.39 Within the context of
+the health MDGs, Countdown played a unique part as a
+multistakeholder initiative. Countdown's success in
+monitoring and accountability at country level for MDGs
+4 and 544,45 was complemented by other initiatives, such as
+the Independent Expert Review Group,8 that relied heavily
+on our data to push for global level accountability. Our
+experience has inspired others. For example, advocates
+for the Non-Communicable Diseases Countdown 2025
+wrote: "lessons from Countdown to 2015 include the
+importance of collaboration and inclusiveness; adaptation
+of global targets to the national situation; regular
+measurement; transparent review and publication of
+progress on priority interventions and outcomes; strong
+engagement of academia and civil society; regular reports
+based on fairly simple summaries of country progress;
+and adequate resources. Countdown to 2015, while
+retaining a core of basic information, has evolved to
+include detailed country reports and shows the value of a
+strong and independent partnership for global health."46
+Leaders of global initiatives developed to track physical
+activity (P C Hallal, personal communication) and
+nutrition (L Haddad, personal communication) also
+acknowledge that Countdown has inspired their work.
+This final Countdown report focuses on time trends in
+the past 15 years. Intervention coverage increased for
+most interventions, and particularly for those that
+received substantial donor investment such as interventions against malaria and HIV.7,13 The gap in coverage
+between rich and poor seems to be narrowing, at least for
+interventions that have been available in low-income
+countries for many years. More countries are adopting
+RMNCH policies, and financing for the health of
+mothers, newborns, and children has increased. Each of
+these statements about general trends, however, must be
+qualified. Cost-effective interventions are still failing to
+reach a large proportion of those who need them.
+Socioeconomic inequities in coverage are still rampant
+within virtually every Countdown country. Essential
+policies and sufficient and equitably distributed human
+resources and commodities are still lacking in most
+countries. And despite increased funding, there is still a
+huge shortfall of reliable resources for RMNCH.
+The post-2015 SDGs are unquestionably much broader
+and more complex than the MDGs. Their adoption will
+bring about substantive challenges to monitoring and
+accountability. To conclude, we address how lessons
+learned from the Countdown process could be relevant to
+the SDG era.
+The MDGs were launched in 2000 with a baseline of
+1990, a peculiar choice implying that signatory countries
+were held accountable for trends during the preceding
+www.thelancet.com Vol 387 May 14, 2016
+
+Review
+
+10 years. Additionally, the absence of real-time data for
+births and deaths led to complex modelling procedures to
+estimate concurrent and past maternal and child
+mortality. Reliance on these methods meant that historical
+trends were revised every time new data became available.
+Baseline values therefore kept changing, and countries
+seemed to be aiming at moving targets. Fortunately, the
+SDG starting date is fixed in 2015, but substantial
+investments in data collection are urgently needed to
+provide valid and precise baseline levels.
+Whereas child mortality estimates are based on actual
+data from censuses, surveys, or civil registration, maternal
+mortality is modelled for most low-income and middleincome countries on the basis of predictor variables such
+as gross domestic product per capita, fertility, HIV
+prevalence, and coverage of skilled birth attendants.16
+There are important problems with the acceptability of
+modelled estimates at country level, yet very few countries
+have invested in large-scale surveys or registration
+systems to actually measure maternal mortality.47,48
+In summary, monitoring during the MDG era was
+largely dependent on modelled mortality estimates,
+coverage measurements derived from infrequent
+household surveys, and ad-hoc systems for tracking
+policies, health system measures, and funding flows.
+Additionally, the MDG framework has been largely
+criticised for its neglect of equity. If the international
+community is serious about achieving the SDGs, it must
+invest now in improvements and innovations in
+measurement.49 The area of measurement of effective
+coverage and the quality of preventive and curative
+interventions deserves special attention.
+There are other aspects of the SDGs that the Countdown
+experience suggests are likely to be problematic. For
+example, MDGs 4 and 5 were clearly defined, with
+quantitative goals for relative mortality reductions. The
+corresponding SDGs (3*1 and 3*2) propose absolute
+targets of 25 per 1000 livebirths at national level for
+under-5 mortality, 12 per 1000 livebirths for neonatal
+mortality, and a global maternal mortality ratio of 70 per
+100 000 livebirths. According to 2013 estimates,
+six Countdown countries already have under-5 mortality
+rates less than 25 deaths per 1000 livebirths, and 11 have
+maternal mortality rates less than 70 deaths per
+100 000 livebirths (table 1). What type of progress, if any,
+should these countries be aiming at? Based on the
+Countdown experience of interacting with countries
+regarding progress towards global goals, we believe that
+the provisional SDG targets must be urgently revisited.
+It is also important for targets to be realistic. The fact
+that only 25 and six of the 75 Countdown countries will
+likely reach MDGs 4 and 5, respectively, suggests that the
+original targets were too ambitious in view of the reported
+progress in terms of financial flows and health systems
+factors such as human resources and policies.
+The Countdown experience taught us the importance
+of identifying evidence-based interventions, and tracking
+www.thelancet.com Vol 387 May 14, 2016
+
+coverage change over time on a country-by-country basis.
+Although monitoring of 73 coverage indicators is a huge
+task, it provides specific feedback on what needs to be
+improved, and where. This level of detail is essential, but
+we also felt a need for a summary measure--the CCI. We
+found this to be robust, stable, and highly associated with
+measures of mortality.7 The CCI provides a promising
+approach to the measurement of universal health
+coverage, and includes a focus on equity, two pillars that
+lie at the heart of the health SDG.
+The large number of SDG targets--169 at some stage--
+has brought about substantial criticism.50,51 Although
+work is under way to trim down this list, the Countdown
+experience shows that an initially small list of goals and
+core indicators can rapidly expand with time, as new
+interventions become available, and as different interest
+groups lobby--often with strong justification--for
+inclusion of additional indicators. A rigorous technical
+process must be in place to ensure the validity and
+reliability of these new indicators, to make sure
+monitoring efforts stay coordinated and focused, and to
+minimise the reporting burden on countries.
+Countdown found its niche in a plethora of global
+initiatives: a focus on intervention coverage at country
+level. Our focus does not overlook other drivers of
+women's and children's health, such as social or
+environmental determinants.52 We recognise that
+biomedical interventions are one of the most important
+pathways through which distal, social determinants affect
+health. During the SDG era, tracking progress in social
+and environmental determinants and understanding how
+these affect health and development will be just as
+important as tracking progress in coverage or health
+status, and will likely face similar data availability
+challenges as were faced by Countdown.
+Other aspects of the Countdown experience might be
+relevant to similar initiatives in the SDG era. Involvement
+of many stakeholders is essential to ensure that data lead
+to action. Retaining scientific independence in the midst
+of stakeholders with different interests and agendas was
+not always a smooth process, but Countdown managed to
+achieve and maintain consensus on indicators that
+should be monitored and disseminated. Positive pressure
+from stakeholders led to our expansion from child
+survival in 2003 to the full RMNCH continuum of care.
+Balancing focus with breadth is not easy, and will likely be
+even harder in the SDG era, both within the health goal
+and across all 17 SDGs.53 Countdown engaged with civil
+society at the international level, as several of its
+stakeholders represent such constituencies. Engagement
+at national level, however, was mostly restricted to
+countries where case studies were done and disseminated.
+Nevertheless, several of the key Countdown stakeholders
+led activities at national level that were consistent with
+our mandate and harmonised with our main messages.
+A Viewpoint54 in this issue of The Lancet explores future
+directions for Countdown. Regardless of what lies ahead,
+2057
+
+Review
+
+our experience in the past 10 years has established the
+importance and feasibility of a multistakeholder
+initiative, with independence and a strong technical
+component, in accelerating progress for the world's
+mothers and children. The auspicious launch of a Global
+Financing Facility42 in support of the Every Woman Every
+Child initiative highlights the need for continued,
+independent monitoring and accountability in the future.
+Contributors
+CGV, JHR, and JB wrote the first draft of the Review. All authors
+contributed to revisions and writing.
+
+16
+
+17
+18
+
+19
+
+20
+
+Declaration of interests
+We declare no competing interests.
+Acknowledgments
+The views expressed are of the individual authors and not of the World
+Health Organization. Our work was supported by the Bill & Melinda
+Gates Foundation, the Wellcome Trust, the World Bank, and the
+Governments of Australia, Canada, Norway, Sweden, the USA, and the
+UK. The funders had no role in the conceptualisation of the paper or in
+the material presented. Countdown would like to thank the following:
+Lois Park, Colleen Murray, Agbessi Amouzou, Liliana Carvajal,
+Courtney Ng, Neha Singh, Giovanny Franca, Fernando Wehrmeister,
+Amani Syam, Matthews Matthai, Jo Borghi, Robin Gorna, Adam Deixel,
+Corrina Moucheraud, Helen Owen, Robert Black, and Li Liu.
+References
+1
+Claeson M, Gillespie D, Mshinda H, Troedsson H, Victora CG, and
+the Bellagio Study Group on Child Survival. Knowledge into action
+for child survival. Lancet 2003; 362: 323-27.
+2
+Countdown to 2015. Tracking progress in child survival: the 2005
+report. New York: UNICEF, 2005.
+3
+Countdown to 2015. Tracking progress in maternal, neonatal and
+child survival: The 2008 report. New York: UNICEF, 2008.
+4
+Countdown to 2015. Countdown to 2015 decade report (2000-2010):
+taking stock of maternal, newborn and child survival. New York:
+UNICEF, 2010.
+5
+Countdown to 2015. Building a future for women and children: the
+2012 report. Washington, DC: World Health Organization and
+UNICEF, 2012.
+6
+Countdown to 2015. Countdown to 2015: accountability for maternal,
+newborn and child survival, the 2013 update. Geneva: WHO, 2013.
+7
+Countdown to 2015. Countdown to 2015: fulfilling the health
+agenda for women and children. Geneva: WHO, 2014.
+8
+Independent Expert Review Group. Every woman, every child, every
+adolescent: Achievements and Prospects. 2015. Geneva: World
+Health Organization. http://www.who.int/woman_child_
+accountability/ierg/reports/2015/en/ (accessed Oct 12, 2015).
+9
+Black REAL, Allen LH, Bhutta ZA, et al, and the Maternal and Child
+Undernutrition Study Group. Maternal and child undernutrition:
+global and regional exposures and health consequences.
+Lancet 2008; 371: 243-60.
+10 Ronsmans C, Graham WJ, and the Lancet Maternal Survival Series
+steering group. Maternal mortality: who, when, where, and why.
+Lancet 2006; 368: 1189-200.
+11 Lawn JECS, Cousens S, Zupan J, and the Lancet Neonatal Survival
+Steering Team. 4 million neonatal deaths: when? Where? Why?
+Lancet 2005; 365: 891-900.
+12 Requejo J, Victora C, Bryce J, and the Scientific Review Group of
+Countdown to 2015. Data resource profile: countdown to 2015:
+maternal, newborn and child survival. Int J Epidemiol 2014; 43: 586-96.
+13 Requejo JH, Bryce J, Barros AJ, et al. Countdown to 2015 and
+beyond: fulfilling the health agenda for women and children.
+Lancet 2015; 385: 466-76.
+14 Boerma JT, Bryce J, Kinfu Y, Axelson H, Victora CG, and the
+Countdown 2008 Equity Analysis Group. Mind the gap: equity and
+trends in coverage of maternal, newborn, and child health services
+in 54 Countdown countries. Lancet 2008; 371: 1259-67.
+15 Barros AJ, Victora CG. Measuring coverage in MNCH: determining
+and interpreting inequalities in coverage of maternal, newborn, and
+child health interventions. PLoS Med 2013; 10: e1001390.
+
+2058
+
+21
+
+22
+
+23
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+32
+
+33
+
+34
+
+35
+
+Maternal mortality estimation inter-agency group (World Health
+Organization UNCsF, United Nations Population Fund, United
+Nations Population Division and World Bank). Trends in maternal
+mortality: 1990 to 2013. Geneva: World Health Organization, 2014.
+Say L, Chou D, Gemmill A, et al. Global causes of maternal death:
+a WHO systematic analysis. Lancet Glob Health 2014; 2: e323-33.
+Ahmed S, Li Q, Liu L, Tsui AO. Maternal deaths averted by
+contraceptive use: an analysis of 172 countries. Lancet 2012;
+380: 111-25.
+Dean SV, Lassi ZS, Imam AM, Bhutta ZA. Preconception care:
+closing the gap in the continuum of care to accelerate
+improvements in maternal, newborn and child health.
+Reprod Health 2014; 11: S1.
+Mason E, Chandra-Mouli V, Baltag V, Christiansen C, Lassi ZS,
+Bhutta ZA. Preconception care: advancing from `important to do
+and can be done' to `is being done and is making a difference'.
+Reprod Health 2014; 11 (suppl 3): S8.
+Lawn JE, Blencowe H, Pattinson R, et al, and the Lancet's Stillbirths
+Series steering committee. Stillbirths: Where? When? Why? How to
+make the data count? Lancet 2011; 377: 1448-63.
+You D, Hug L, Ejdemyr S, et al, and the United Nations
+Inter-agency Group for Child Mortality Estimation (UN IGME).
+Global, regional, and national levels and trends in under-5 mortality
+between 1990 and 2015, with scenario-based projections to 2030:
+a systematic analysis by the UN Inter-agency Group for Child
+Mortality Estimation. Lancet 2015; published online Sept 8.
+DOI:10.1016/S0140-6736(15)00120-8.
+Black RE, Morris SS, Bryce J. Where and why are 10 million
+children dying every year? Lancet 2003; 361: 2226-34.
+Liu L, Oza S, Hogan D, et al. Global, regional, and national causes
+of child mortality in 2000-13, with projections to inform post-2015
+priorities: an updated systematic analysis. Lancet 2015;
+385: 430-40.
+Black RE, Victora CG, Walker SP, et al, and the Maternal and Child
+Nutrition Study Group. Maternal and child undernutrition and
+overweight in low-income and middle-income countries.
+Lancet 2013; 382: 427-51.
+International Food Policy Research Institute. 2015. Global Nutrition
+Report 2015: Actions and Accountability to Advance Nutrition and
+Sustainable Development. Washington, DC. http://ebrary.ifpri.org/
+utils/getfile/collection/p15738coll2/id/129443/filename/129654.pdf
+(accessed Oct 12, 2015).
+Kassebaum NJ, Bertozzi-Villa A, Coggeshall MS, et al. Global,
+regional, and national levels and causes of maternal mortality
+during 1990-2013: a systematic analysis for the Global Burden of
+Disease Study 2013. Lancet 384: 980-1004.
+Wang H, Liddell CA, Coates MM, et al. Global, regional, and
+national levels of neonatal, infant, and under-5 mortality during
+1990-2013: a systematic analysis for the Global Burden of Disease
+Study 2013. Lancet 2014; 384: 957-79.
+Hazir T, Begum K, El Arifeen S, et al. Measuring coverage in
+MNCH: a prospective validation study in Pakistan and Bangladesh
+on measuring correct treatment of childhood pneumonia.
+PLoS Med 2013; 10: e1001422.
+Requejo JHNH, Newby H, Bryce J. Measuring coverage in MNCH:
+challenges and opportunities in the selection of coverage indicators
+for global monitoring. PLoS Med 2013; 10: e1001416.
+Fund UNsC. Beyond Averages: Learning from the MDGs.
+New York: UNICEF, 2015.
+Walker N, Yenokyan G, Friberg IK, Bryce J. Patterns in coverage
+of maternal, newborn, and child health interventions: projections
+of neonatal and under-5 mortality to 2035. Lancet 2013;
+382: 1029-38.
+Victora CG, Wagstaff A, Schellenberg JA, Gwatkin D, Claeson M,
+Habicht JP. Applying an equity lens to child health and mortality:
+more of the same is not enough. Lancet 2003; 362: 233-41.
+Barros AJ, Ronsmans C, Axelson H, et al. Equity in maternal,
+newborn, and child health interventions in Countdown to 2015:
+a retrospective review of survey data from 54 countries. Lancet 2012;
+379: 1225-33.
+Victora CG, Barros AJ, Axelson H, et al. How changes in coverage
+affect equity in maternal and child health interventions in
+35 Countdown to 2015 countries: an analysis of national surveys.
+Lancet 2012; 380: 1149-56.
+
+www.thelancet.com Vol 387 May 14, 2016
+
+Review
+
+36
+37
+
+38
+
+39
+
+40
+
+41
+42
+
+43
+44
+
+45
+
+Organization WH. Everybody's business: Strengthening health
+systems to improve health outcomes. Geneva: WHO, 2007.
+Partnership for Maternal NaCH. WHO. A multisectoral policy
+compendium for RMNCH. Geneva: The Partnership for Maternal,
+Newborn and Child Health, 2014.
+Organization GHWAaWH. A Universal Truth: No Health Without a
+Workforce. Geneva: Global Health Workforce Alliance and World
+Health Organization, 2013.
+Waage J, Banerji R, Campbell O, et al. The Millennium
+Development Goals: a cross-sectoral analysis and principles for goal
+setting after 2015 Lancet and London International Development
+Centre Commission. Lancet 2010; 376: 991-1023.
+Arregoces L, Daly F, Pitt C, et al. Countdown to 2015: changes in
+official development assistance to reproductive, maternal, newborn,
+and child health, and assessment of progress between 2003 and 2012.
+Lancet Glob Health 2015; 3: e410-21.
+Dieleman JL, Graves C, Johnson E, et al. Sources and Focus of Health
+Development Assistance, 1990-2014. JAMA 2015; 313: 2359-68.
+Desalegn H, Solberg E, Kim JY. The Global Financing Facility:
+country investments for every woman, adolescent, and child.
+Lancet 2015; 386: 105-06.
+Jamison DTSL, Summers LH, Alleyne G, et al. Global health 2035:
+a world converging within a generation. Lancet 2013; 382: 1898-955.
+Godwin P, Misra S. Report of the external review of the
+accountability work for women's and children's health, New York:
+United Nations (Every Woman Every Child), 2014.
+Commission on information and accountability for Women's and
+Children's Health. Keeping promises, measuring results. Final report
+of the Commission. Geneva: World Health Organization, 2011.
+
+www.thelancet.com Vol 387 May 14, 2016
+
+46
+
+47
+
+48
+
+49
+50
+51
+52
+
+53
+
+54
+
+Beaglehole R, Bonita R, Ezzati M, et al. NCD Countdown 2025:
+accountability for the 25 x 25 NCD mortality reduction target.
+Lancet 2014; 384: 105-07.
+El Arifeen S, Hill K, Ahsan KZ, Jamil K, Nahar Q, Streatfield PK.
+Maternal mortality in Bangladesh: a Countdown to 2015 country
+case study. Lancet 2014; 384: 1366-74.
+Abouzahr C. New estimates of maternal mortality and how to
+interpret them: choice or confusion? Reprod Health Matters 2011;
+19: 117-28.
+Handley K, Boerma T, Victora C, Evans TG. An inflection point for
+country health data. Lancet Glob Health 2015; 3: e437-38.
+Stokstad E. United Nations. Sustainable goals from U.N. under fire.
+Science 2015; 347: 702-03.
+Editorial. The 169 commandments. March 28, 2015, The Economist.
+World Health Organization. Commission on Social Determinants
+of Health. Closing the gap in a generation: Health equity through
+action on the social determinants of health. Geneva: WHO, 2008.
+Schmidt H, Gostin LO, Emanuel EJ. Public health, universal health
+coverage, and Sustainable Development Goals: can they coexist?
+Lancet 2015; 386: 928-30.
+Bhutta ZA, Chopra M. Moving ahead: what will a renewed
+Countdown to 2030 for Women and Children look like? Lancet 2015;
+published online Oct 16. http://dx.doi.org/10.1016/
+S0140-6736(15)00527-9.
+
+2059
+
+
