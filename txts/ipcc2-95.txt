@@ -1,174 +1,3 @@
-OMM
-
-PNUE
-
-INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE
-WMO
-
-UNEP
-
-IPCC Second Assessment
-Climate Change 1995
-
-A REPORT OF THE
-INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE
-
-OMM
-
-PNUE
-
-INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE
-WMO
-
-UNEP
-
-IPCC Second Assessment
-Climate Change 1995
-
-A REPORT OF THE
-INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE
-
-CONTENTS
-PREFACE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Page
-v
-
-FOREWORD
-
-............................................................................................
-
-vii
-
-IPCC SECOND ASSESSMENT SYNTHESIS OF SCIENTIFIC-TECHNICAL INFORMATION RELEVANT TO
-INTERPRETING ARTICLE 2 OF THE UN FRAMEWORK CONVENTION ON CLIMATE CHANGE . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1. Addressing the UNFCCC Article 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2. Anthropogenic interference with the climate system . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-3. Sensitivity and adaptation of systems to climate change . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4. Analytical approach to stabilization of atmospheric concentrations of greenhouse gases . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-5. Technology and policy options for mitigation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-6. Equity and social considerations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-7. Economic development to proceed in a sustainable manner . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-8. The road forward . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-1
-3
-4
-6
-8
-12
-14
-15
-17
-
-SUMMARY FOR POLICYMAKERS: THE SCIENCE OF CLIMATE CHANGE -- IPCC WORKING GROUP I . . . . . . . . . . . . . . . . . . . .
-1. Greenhouse gas concentrations have continued to increase . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2. Anthropogenic aerosols tend to produce negative radiative forcings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-3. Climate has changed over the past century . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4. The balance of evidence suggests a discernible human influence on global climate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-5. Climate is expected to continue to change in the future . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-6. There are still many uncertainties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-19
-21
-21
-22
-22
-22
-24
-
-SUMMARY FOR POLICYMAKERS: SCIENTIFIC-TECHNICAL ANALYSES OF IMPACTS, ADAPTATIONS
-AND MITIGATION OF CLIMATE CHANGE -- IPCC WORKING GROUP II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1. Scope of the assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2. Nature of the issue . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-3. Vulnerability to climate change . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-3.1 Terrestrial and aquatic ecosystems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-3.2 Hydrology and water resources management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-3.3 Food and fibre . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-3.4 Human infrastructure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-3.5 Human health . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4. Options to reduce emissions and enhance sinks of greenhouse gases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.1 Energy, industrial process and human settlement emissions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.1.1 Energy demand . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.1.2 Mitigating industrial process and human settlement emissions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.1.3 Energy supply . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.1.4 Integration of energy system mitigation options . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.2 Agriculture, rangelands and forestry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.3 Cross-sectoral issues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.4 Policy instruments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-25
-27
-27
-28
-29
-32
-32
-34
-35
-36
-36
-36
-38
-38
-39
-39
-41
-41
-
-SUMMARY FOR POLICYMAKERS: THE ECONOMIC AND SOCIAL DIMENSIONS OF CLIMATE CHANGE --
-IPCC WORKING GROUP III . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2. Scope of the assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-3. Decision-making frameworks for addressing climate change . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4. Equity and social considerations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-5. Intertemporal equity and discounting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-6. Applicability of cost and benefit assessments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-7. The social costs of anthropogenic climate change: Damages of increased greenhouse gas emissions . . . . . . . . . . . . . . . . . . . .
-
-43
-45
-45
-46
-47
-48
-49
-50
-
-iii
-
-CLIMATE CHANGE 1995: IPCC SECOND ASSESSMENT REPORT
-
-8.
-9.
-10.
-11.
-
-Generic assessment of response strategies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Costs of response options . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Integrated assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-An economic assessment of policy instruments to combat climate change . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-APPENDIX: HEAD AUTHORS, AUTHORS AND CONTRIBUTORS
-
-Page
-51
-52
-54
-55
-
-...................................................
-
-57
-
-LIST OF IPCC OUTPUTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-64
-
-iv
-
-PREFACE
-
 The Intergovernmental Panel on Climate Change (IPCC) was jointly
 established by the World Meteorological Organization and the United
 Nations Environment Programme in 1988, in order to: (i) assess available scientific information on climate change, (ii) assess the
@@ -257,7 +86,7 @@ Ms E. Dowdeswell
 Executive Director
 United Nations Environment Programme
 
-FOREWORD
+FOREWORD
 
 The IPCC completed its Second Assessment Report (SAR) in
 December 1995. The SAR consists of four parts:
